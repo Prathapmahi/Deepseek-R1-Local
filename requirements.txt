@@ -1,0 +1,11 @@
+langchain
+openai
+python-dotenv
+streamlit
+pdfplumber
+semantic-chunkers
+open-text-embeddings
+prompt-template
+langchain_experimental
+sentence-transformers
+faiss-cpu
